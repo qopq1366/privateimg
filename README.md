@@ -1,3 +1,1 @@
 # privateimg
-Img photo
-# Wow
